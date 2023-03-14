@@ -4,7 +4,10 @@
 digitalno analogno pretvorbo (DAC). Na izhod boste nastavili poljubno napetost, ki jo boste izmerili z V -
 metrom. 
 
-        a.
+        a. ima 2 DAC izhoda
+        b. 
+        c. pin PA5
+        d. Ouptup Buffer, Trigger
 
 
 
