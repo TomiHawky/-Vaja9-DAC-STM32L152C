@@ -1,1 +1,17 @@
-# -Vaja9-DAC-STM32L152C
+# Vaja9-DAC-STM32L152C
+
+1. Cilj naloge: S pomočjo STM32CubeIDE in HAL knjižnicami sprogramirajte mikroprocesor tako, da bo izvedel 
+digitalno analogno pretvorbo (DAC). Na izhod boste nastavili poljubno napetost, ki jo boste izmerili z V -
+metrom. 
+
+        a.
+
+
+
+
+## Pinout
+
+![pinout]()
+
+3. Komentar:
+ 
