@@ -5,7 +5,7 @@ digitalno analogno pretvorbo (DAC). Na izhod boste nastavili poljubno napetost, 
 metrom. 
 
         a. ima 2 DAC izhoda
-        b. 
+        b. 0 - 3.3V
         c. pin PA5
         d. Ouptup Buffer, Trigger
 
@@ -16,5 +16,5 @@ metrom.
 
 ![pinout]()
 
-3. Komentar:
+3. Komentar: V board selectorju je treba izbrati obsolite verzijo plošče
  
