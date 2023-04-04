@@ -11,7 +11,8 @@ metrom.
         
 4. Naložitev kode:
       
-        e: S pomočjo V-metra preverite napetost na vašem DAC izhodnem pinu ( fotografirajte izmerjeno vrednost). Kakšno je odstopanje v mV?
+        e: S pomočjo V-metra preverite napetost na vašem DAC izhodnem pinu ( fotografirajte izmerjeno vrednost).
+        Kakšno je odstopanje v mV? 4mV
 
 
 
