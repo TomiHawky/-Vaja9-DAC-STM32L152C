@@ -4,10 +4,14 @@
 digitalno analogno pretvorbo (DAC). Na izhod boste nastavili poljubno napetost, ki jo boste izmerili z V -
 metrom. 
 
-        a. ima 2 DAC izhoda
-        b. 0 - 3.3V
-        c. pin PA5
-        d. Ouptup Buffer, Trigger
+        b. ima 2 DAC izhoda
+        c. 0 - 3.3V
+        d. pin PA5
+        e. Ouptup Buffer, Trigger
+        
+4. Naložitev kode:
+      
+        a: S pomočjo V-metra preverite napetost na vašem DAC izhodnem pinu ( fotografirajte izmerjeno vrednost). Kakšno je odstopanje v mV?
 
 
 
